@@ -1,0 +1,34 @@
+**********************
+To set global email address
+git config --global user.email "your email"
+to unset email address
+git config --global --unset-all user.email
+
+Same applies for user name
+**************************
+
+**************************
+to remove a remote source
+git remote rm origin
+
+to add a remote source
+
+git remote add origin "path to remote source"
+***************************
+
+***************************
+To remove a directory and files
+rm -r "name of directory"
+to remove a file
+rm "file name" or rm *.* to remove all files
+***************************
+
+****************************
+git init sets current folder as a repo
+
+git add . adds all files to stage
+
+git commit -m "commit message" commits the changes
+
+git push origin master will commit changes to remote repo
+******************************
