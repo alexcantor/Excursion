@@ -32,7 +32,13 @@ git commit -m "commit message" commits the changes
 
 git push origin master will commit changes to remote repo
 ******************************
+
 ******************************
-NO ADDITIONAL NOTES
-THANK YOU!!!
-*****************************
+To reverse a "git init" command, meaning the source folder is
+no longer a repo, use from repo folder "rm -rf .git" command
+*******************************
+
+********************************
+Good site to learn more about CSS, recommended by Jordan Moderator:
+http://learnlayout.com/position.html
+*********************************
