@@ -1,4 +1,4 @@
-**********************
+it**********************
 To set global email address
 git config --global user.email "your email"
 to unset email address
