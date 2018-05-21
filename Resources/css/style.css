@@ -1,34 +1,30 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: verdana;
+  color: white;
 }
 
 h1 {
-  text-align: center;
-  font-family: verdana;
-  color: white;
   font-weight: normal;
   font-size: 50px;
 }
 
 h2 {
-  font-family: verdana;
   font-size: 42px;
   font-weight: 300;
-  color: white;
+
 }
-a {
+.downlink {
   color: aquamarine;
   font-size: 16px;
 }
 
 p {
-  font-family: verdana;
-  text-align: center;
-  color: gray;
   font-size: 21px;
+  color: gray;
 }
 
-.footer p {
+.footer {
   text-align: right;
 }
