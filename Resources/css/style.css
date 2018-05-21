@@ -1,7 +1,27 @@
 h1 {
-  font-family: helvetica;
-  color: seagreen;
-  padding: 10px 150px;
-  margin: 10px;
-  padding: 10px 5px 10px 5px;
+  text-align: center;
+  font-family: verdana;
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: gray;
+  font-size: 21px;
 }
